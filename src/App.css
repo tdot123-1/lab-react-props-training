@@ -1,0 +1,13 @@
+.id-card {
+    border: 1px solid black;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 2rem;
+}
+
+.id-card span {
+    font-weight: bold;
+}
+

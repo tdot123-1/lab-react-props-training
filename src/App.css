@@ -27,3 +27,33 @@
     margin: 5px;
 }
 
+.credit-card {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    text-align: end;
+    max-width: 50%;
+    border-radius: 15px;
+    /*border: 1px solid black;*/
+    margin: 5px;
+}
+
+.credit-card-logo {
+    max-width: 20%;
+}
+
+.credit-card-nr {
+    font-size: 2rem;
+    margin: 0;
+    padding: 0 2rem;
+    text-align: center;
+}
+
+.credit-card-info {
+    text-align: start;
+}
+
+.credit-card-info span {
+    margin-left: 2rem;
+}
+
